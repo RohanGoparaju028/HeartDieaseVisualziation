@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
     "@tensorflow/tfjs-node": "^4.22.0",
     "canvas": "^3.2.1",
     "d3": "^7.9.0",
-    "jsdom": "^28.1.0"
+    "jsdom": "^28.1.0",
+    "tensorflow": "^0.7.0"
   }
 }
